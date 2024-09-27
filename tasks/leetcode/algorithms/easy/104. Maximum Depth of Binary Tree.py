@@ -1,8 +1,5 @@
 from typing import Optional
 
-from gyp.generator.make import header
-
-
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
