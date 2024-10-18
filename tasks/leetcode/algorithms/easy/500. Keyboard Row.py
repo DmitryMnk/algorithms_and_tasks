@@ -32,5 +32,5 @@ class Solution:
 slution = Solution()
 
 print(
-    slution(["Hello","Alaska","Dad","Peace"])
+    slution.findWords(["Hello","Alaska","Dad","Peace"])
 )
